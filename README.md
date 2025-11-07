@@ -1,9 +1,20 @@
 # Tiago Silvestre Condeixa
 
+I’m a **Software Engineer** with a broader experience in **Infrastructure** and **Cloud**.
+I enjoy to design, implement and deliver **simple solutions** related with
+the **development lifecycle** and **infrastructure**,
+always having a focus on aspects related to governance, availability, scalability and reliability.
+I'm looking for challenges and opportunities to **learn**, so I found very interesting the
+possibility to integrate new technologies or tools in the system
+whenever bring business or technology advantage.
+
 Berlin, Germany
-[github](https://github.com/tcondeixa)
+
+[https://github.com/tcondeixa](https://github.com/tcondeixa)
+
 [tscondeixa@gmail.com](mailto:tscondeixa@gmail.com)
-[linkedin](https://www.linkedin.com/in/tiagocondeixa/)
+
+[https://www.linkedin.com/in/tiagocondeixa](https://www.linkedin.com/in/tiagocondeixa)
 
 ---
 
