@@ -1,4 +1,4 @@
-# Tiago Silvestre Condeixa
+# Tiago Condeixa
 
 I’m a **Software Engineer** with a broader experience in **Infrastructure** and **Cloud**.
 I enjoy to design, implement and deliver **simple solutions** related with
