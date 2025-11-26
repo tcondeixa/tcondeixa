@@ -49,7 +49,7 @@ Later also operating, improving and extending 200+ Kubernetes clusters.
 - **Designed** and **Implemented** a solution to create, update and rotate application
   tokens for 1000+ applications.
 - **Supported** the migration of 100+ self-managed Kubernetes clusters to AWS EKS clusters (IPv6),
-  including changes on the system to support the migration and multiple clusters per account.
+  including changes on the system to support the migration and support multiple clusters per account.
 
 ### Zenjob
 
