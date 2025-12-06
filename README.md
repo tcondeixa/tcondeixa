@@ -1,7 +1,7 @@
 # Tiago Condeixa
 
 I'm a **Software Engineer** specializing in **Infrastructure**, **Cloud**, and **Developer Tools**.
-I enjoy designing and delivering **simple** and **reliable** solutions for the entire **development lifecycle**,
+I enjoy designing and delivering **simple**, **scalable** and **reliable** solutions for the entire **development lifecycle**,
 with a focus on developer experience and operational excellence.
 I thrive on solving complex challenges and integrating technologies that drive meaningful business impact.
 
