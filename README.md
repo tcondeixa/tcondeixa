@@ -9,9 +9,13 @@ Berlin, Germany
 
 [https://github.com/tcondeixa](https://github.com/tcondeixa)
 
-[tscondeixa@gmail.com](mailto:tscondeixa@gmail.com)
-
 [https://www.linkedin.com/in/tiagocondeixa](https://www.linkedin.com/in/tiagocondeixa)
+
+[ssh cv.tiagocondeixa.com](ssh cv.tiagocondeixa.com)
+
+[https://tiagocondeixa.com](https://tiagocondeixa.com)
+
+[tscondeixa@gmail.com](mailto:tscondeixa@gmail.com)
 
 ---
 
