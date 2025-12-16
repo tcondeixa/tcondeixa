@@ -11,7 +11,7 @@ Berlin, Germany
 
 [https://www.linkedin.com/in/tiagocondeixa](https://www.linkedin.com/in/tiagocondeixa)
 
-[ssh cv.tiagocondeixa.com](ssh cv.tiagocondeixa.com)
+[ssh://cv.tiagocondeixa.com](ssh://cv.tiagocondeixa.com)
 
 [https://tiagocondeixa.com](https://tiagocondeixa.com)
 
