@@ -1,9 +1,9 @@
 # Tiago Condeixa
 
-I'm a **Software Engineer** specializing in **Infrastructure**, **Cloud**, and **Developer Tools**.
-I enjoy designing and delivering **simple**, **scalable** and **reliable** solutions for the entire **development lifecycle**,
-with a focus on developer experience and operational excellence.
-I thrive on solving complex challenges and integrating technologies that drive meaningful business impact.
+I'm a **Software Engineer** with **10+ years** specializing in **Infrastructure**, **Cloud**, and **Developer Tools**.
+I enjoy designing and delivering **simple**, **scalable** and **reliable** solutions for the entire development lifecycle,
+focusing on developer experience and operational excellence.
+I thrive on solving complex challenges and integrating technologies that drive meaningful business impact
 
 Berlin, Germany
 
@@ -21,11 +21,11 @@ Berlin, Germany
 
 ## Technical Skills
 
-**Software Development:** IaC | Cloud | Containers | CI/CD | Automation | SRE | Networking | Microservices
+**Software Development:** IaC | Cloud | Containers | CI/CD | Automation | SRE | Networking | Microservices | Operating Systems
 
-**Languages:** Go | Python | Bash | C | SQL | JavaScript
+**Programming Languages:** Go | Python | Bash | C | SQL | JavaScript
 
-**Infrastructure:** AWS | Kubernetes | Terraform | Docker | Jenkins
+**Infrastructure Technologies:** AWS | Kubernetes | Terraform | Docker | Jenkins
 
 **Monitoring & Databases:** Grafana | Prometheus | Loki | PostgreSQL
 
@@ -36,10 +36,9 @@ Berlin, Germany
 **Senior Software Engineer (Cloud Infrastructure)**
 _August 2021 - Present_
 
-Operating, improving and extending the AWS infrastructure for 300+ accounts.
+Manage and extend the AWS infrastructure for 300+ accounts and 200+ Kubernetes clusters.
 The main focus is on improving cost efficiency, reliability and compliance,
-while reducing toil and improving user experience for developers.
-Later also operating, improving and extending 200+ Kubernetes clusters.
+while reducing toil and improving user experience for developers
 
 - **Lead** the migration of entire AWS central infrastructure to AWS Cloudformation,
   including the **development** of a golang application to manage Cloudformation
@@ -90,20 +89,18 @@ provide a platform for 50+ engineers to deploy and monitor their applications.
 **Systems Engineer (Embedded and Network)**
 _September 2014 - March 2017_
 
-Operated and improved the embedded network software for 500+ devices
-and the related network infrastructure.
+Developed and Maintained the network related software for 500+ moving devices and backend infrastructure.
 
-- **Developed** software solutions in C and some Python regarding mobility management, multihoming and
-  delay-tolerant communication for embedded devices and network controllers.
-  This included developing, improving or integrating network protocols, data caching,
+- Developed software solutions (C language) for embedded devices and network controllers
+  regarding mobility management, multihoming and delay-tolerant communication.
+  This included developing or integrating network protocols, data caching,
   opportunistic communications, connection manager, DHCP, Wireguard, Multipath TCP.
-- **Defined** and **configured** the network that connects moving vehicles (embedded devices),
-  network controllers and Linux servers.
-  Some examples include Linux distribution setup, OpenWRT, OpenVPN, network configuration and iptables.
+- Defined and configured the network that connects moving vehicles (embedded devices),
+  network controllers and Linux servers (e.g. Linux distribution setup, OpenWRT, OpenVPN and routing).
 
 ---
 
-## Education and Certifications
+## Education
 
 ### University of Aveiro, Portugal
 
@@ -112,7 +109,7 @@ and the related network infrastructure.
 - **MSc** in Electronic and Telecommunications Engineering (2004 - 2009)
   with a **Merit Scholarship** as one of the best students of 2008/2009.
 
-### Certifications
+## Certifications
 
 - Linux Foundation: [Certified Kubernetes Application
   Developer](https://www.credly.com/badges/e453a458-8b9f-4691-b0ea-9afa00099d18)
